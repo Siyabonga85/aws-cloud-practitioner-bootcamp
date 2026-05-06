@@ -1,1 +1,4 @@
-
+What cloud computing is: the on-demand delivery of IT resources- such as servers, storage, and databases- over the internet with pay-as-you-go pricing  
+IaaS vs PaaS vs SaaS: IaaS offers virtualised infrastructure(servers, storage) over the internet; PaaS offers management of apps and data; SaaS: The vendor manages the entire stack, including the app and infrastructure 
+Cloud vs On-Premise: Cost - On-premise requires significant upfront capital expenditure (CapEx) for hardware and software, whereas the cloud operates on pay-as-you-go operational expenditure (OpEx) and also for Control and Security: On-premise offers complete control and data ownership, allowing the organisation to manage their own security. Cloud providers handle security, which is often robust and requires trusting a third party 
+CapEx vs OpEx - CapEx refers to major upfront investment in physical or intangible assets, and OpEx covers day-to-day, short-term expenses 
